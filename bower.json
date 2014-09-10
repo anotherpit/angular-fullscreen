@@ -1,0 +1,26 @@
+{
+  "name": "angular-fullscreen",
+  "version": "0.1.0",
+  "homepage": "https://github.com/anotherpit/angular-fullscreen",
+  "authors": [
+    "anotherpit <anotherpit@gmail.com>"
+  ],
+  "description": "AngularJS × HTML5 Fullscreen API",
+  "main": "index.js",
+  "keywords": [
+    "html5",
+    "angular",
+    "fullscreen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": ">=1.2"
+  }
+}
